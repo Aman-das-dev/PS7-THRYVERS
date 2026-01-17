@@ -1,5 +1,3 @@
-# PS7-THRYVERS
-
 # Green Lie Detector
 
 A web application that analyzes sustainability claims to determine if they are "structurally honest" or "green lies" that unfairly shift responsibility without providing the necessary power to act.
